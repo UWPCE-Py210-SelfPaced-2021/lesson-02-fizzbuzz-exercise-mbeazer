@@ -7,7 +7,7 @@ def fizz_buzz(n):
         elif num % 5 == 0:
             print("Buzz")
         else:
-            print(num)
+            print(str(num))
 
 
 if __name__ == "__main__":
